@@ -1,6 +1,6 @@
 "use client";
 
-import { Modal } from "@/components/modal";
+import { Modal } from "@/components/Modal";
 import { PhotoItem } from "@/components/PhotoItem";
 import { photoList } from "@/data/photoList";
 import { useState } from "react";
